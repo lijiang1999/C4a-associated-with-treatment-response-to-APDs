@@ -10,3 +10,26 @@ The discovery GWAS included 88 self-described Caucasian patients diagnosed with 
 All ratings were conducted by trained neuropsychiatric technicians who were blind to the hypothesis of this study. The BPRS positive symptom subscale, BPSY, includes assessment of suspiciousness, hallucinatory behavior, and unusual thought content. The BPRS negative subscale, WR, is comprised of three items: emotional withdrawal, motor retardation and blunted affect. Quantitative treatment response was evaluated at 6-week and 6-month, using the change in ∆BPSY or ∆WR. Only patients with moderate to severe psychosis (baseline BPSY ≥ 6) were included in the analysis. Different cutoff values for BPSY had been implemented to avoid selection bias, and BPSY ≥ 6 gave the strongest signal compared to BPSY ≥2, ≥4, ≥8, and ≥10, with 88 out of previously reported 174 patients29 included in the discovery cohort. Therefore, the same baseline cutoff values were applied to the replication cohort. 42 out of 71 patients were included.
 
 ### Data analysis pipeline
+![image](https://user-images.githubusercontent.com/13919508/132241329-a0adc5db-fdd8-47e5-9e01-1cbe233e86a7.png)
+
+### Demographics and clinical characteristics
+![image](https://user-images.githubusercontent.com/13919508/132242533-2eedc592-9240-457c-88b9-1b23f9aefbe1.png)
+
+### Summary of top loci associated with treatment response to APDs
+![image](https://user-images.githubusercontent.com/13919508/132242677-f17859f4-63e6-4746-9aee-6a1ab20011f0.png)
+
+### Regional locus plot to demonstrate the association
+![image](https://user-images.githubusercontent.com/13919508/132241441-7525238c-b9d1-4172-9374-4615070b8582.png)
+
+### Transcriptomic imputation and gene-based association
+![image](https://user-images.githubusercontent.com/13919508/132241535-d2d1553d-fc8e-459b-9bae-6ee585d36e10.png)
+
+### Conditional GWAS
+![image](https://user-images.githubusercontent.com/13919508/132241616-719954e4-e906-4dd6-8948-d248e2baad75.png)
+
+### eQTL and plasmaQTL analysese
+![image](https://user-images.githubusercontent.com/13919508/132241682-6c5eb5dd-e254-4978-b850-0482028d92a4.png)
+
+### epistatsis analysis
+![image](https://user-images.githubusercontent.com/13919508/132241781-7d1f3289-b87e-4e4f-8bb8-37d85b4638bf.png)
+
